@@ -1,0 +1,5 @@
+﻿  Calculator.cpp
+C:\Users\USER\source\repos\Project28\Project28\Yielder.h(80,16): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\Project28\Project28\Yielder.h(109,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\source\repos\Project28\Project28\Yielder.h(113,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project28.vcxproj -> C:\Users\USER\source\repos\Project28\Debug\Project28.exe
